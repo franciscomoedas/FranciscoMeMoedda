@@ -1,6 +1,6 @@
 body {
-    background: rgb(177, 49, 134);
-    background: linear-gradient(90deg, rgb(153, 47, 118) 0%, rgb(185, 82, 146) 35%, rgb(223, 102, 196) 100%);
+    background: rgb(172, 51, 146);
+    background: linear-gradient(90deg, rgb(224, 65, 230) 0%, rgb(170, 31, 140) 35%, rgb(223, 102, 196) 100%);
 }
 
 header {
@@ -12,7 +12,7 @@ header {
     display: flex;
     list-style: none;
     font-size: 40px;
-    color: rgb(84, 170, 144);
+    color: rgb(247, 10, 10);
     gap: 20px;
     text-transform: uppercase;
 }
