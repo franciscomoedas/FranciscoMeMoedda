@@ -8,11 +8,17 @@ header {
     justify-content: center;
 }
 
-ul {
+.nav-lista {
     display: flex;
     list-style: none;
     font-size: 40px;
-    color: aqua;
+    color: rgb(167, 58, 139);
     gap: 20px;
     text-transform: uppercase;
+}
+
+.nav-item:hover {
+ cursor: pointer;
+ background-color: white;
+ color: black;
 }
